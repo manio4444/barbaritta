@@ -1,0 +1,178 @@
+body {
+color:  #666;
+background-color: #c5c2bb;
+font-family: 'Open Sans', arial, serif;
+font-size:19px;
+background: #fafbeb url('images/main2.png') no-repeat center -85px;
+
+}
+
+a {
+color: #666;
+}
+
+#glowna_h1, #outled_h1 {
+font-size: 43px;
+font-style: italic;
+}
+
+#center {text-align:center;}
+
+#calosc { background: #fafbeb url('images/main2_inne.png') no-repeat center -85px; }
+
+#calosc_glowna {  }
+
+#calosc, #calosc_glowna {
+width:1000px;
+margin:auto;
+height:766px;
+background-repeat:no-repeat;
+}
+
+#menu {
+width:1000px;
+font-size: 22px;
+height:35px;
+padding-top:5px;
+}
+
+
+#menu a {
+text-decoration: none;
+font-weight: bold;
+height:35px;
+display:block;
+float:left;
+margin: 0 8px;
+color: #444;
+}
+
+#facebook {
+background-image: url('images/fb_logo2.png');
+background-repeat: no-repeat;
+float:right;
+margin-right: 50px;
+}
+
+#facebook a {
+display:block;
+}
+
+#facebook, #facebook a {
+width:65px;
+height:65px;
+}
+
+#wyprz {
+background-image: url('images/wyprz.png');
+background-repeat: no-repeat;
+float:right;
+clear:right;
+margin:30px 38px 0 0;
+}
+
+#wyprz a {
+display:block;
+}
+
+#wyprz, #wyprz a {
+width:247px;
+height:124px;
+}
+
+#glowna_txt {
+float:left;
+padding-top:161px;
+padding-left:10px;
+color:#666;
+font-size:20px;
+}
+
+#glowna_h1 {
+font-size: 43px;
+font-style: italic;
+margin-bottom:7px;
+}
+
+#podstrony { padding-top:175px;}
+
+#kolekcje {
+  display: flex;
+  justify-content: center;
+}
+#kolekcje img {
+  /*margin-right:-3px;*/
+}
+
+#wi_txt {
+text-align:left;
+width:432px;
+padding-top:110px;
+}
+
+#wi_img {
+background-image: url(images/wi_img.png);
+background-repeat:no-repeat;
+float:right;
+width:568px;
+height:520px;
+}
+
+#outled {
+text-align:center;
+margin-top:-140px;
+}
+
+#outled img {
+margin:5px;
+}
+
+#outled_cell {
+margin:5px 5px 50px 5px;
+float:left;
+font-size:14px;
+}
+
+#outled_h1 {
+text-align: center;
+margin-bottom:20px;
+margin-top:10px;
+}
+
+#polecamy {
+padding-top:50px;
+margin:auto;
+width:800px;
+}
+
+#polecamy img {
+float:left;
+}
+
+#polecamy_cell {
+float:left;
+width:400px;
+height: 160px;
+font-size:16px;
+}
+
+
+#polecamy img {
+margin-right:10px;
+}
+
+#galeria img {
+margin:10px;
+}
+
+#kontakt {
+padding: 80px;
+float: left;
+background-image: url('images/kontakt.png');
+margin-left: 60px;
+color:#ddd;
+}
+
+#kontakt_mapa, #kontakt_txt { float:left; }
+
+#kontakt_txt { margin-left: 10px; }
