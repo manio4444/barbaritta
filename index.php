@@ -8,7 +8,7 @@
 		<meta name="Description" content="Najlepszy salon suknii ślubnych w Mińsku Mazowiecki. Fachowa obsługa, Suknie szyte na miarę, Markowe suknie ślubne, Szeroki wybór dodatków, Atrakcyjne ceny - Zapraszamy do naszego salonu!">
 		<link rel="stylesheet" href="reset.css" />
 		<link rel="stylesheet" href="css/lightbox.css" />
-		<link rel="stylesheet" href="style.css" />
+		<link rel="stylesheet" href="style.css?v=1.1" />
 	</head>
 
 	<body>
